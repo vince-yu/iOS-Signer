@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D2650DAD-04FB-4AC5-B078-1290C6156184"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9DC9646-DCE3-4B2C-81AB-5B717B2288C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.295748"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "MainView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E9DC9646-DCE3-4B2C-81AB-5B717B2288C7 - fdbf1a9619a8a5d0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_429D381673EF48BA4D7C95FD96110EE6_func1"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "586422849.487223"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "E9DC9646-DCE3-4B2C-81AB-5B717B2288C7 - a9b4e16961a43f8a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_App_Signer.MainView.allowedFileTypes.unsafeMutableAddressor : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "586422849.488695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "E9DC9646-DCE3-4B2C-81AB-5B717B2288C7 - 630712eaf87803f3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static iOS_App_Signer.MainView.allowedFileTypes.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "586422849.490329"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9ECB7AD-E1DD-47F1-923A-CC0EE07F215D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.296164"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1098"
+            endingLineNumber = "1098"
+            landmarkName = "chooseProvisioningProfile(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9ECB7AD-E1DD-47F1-923A-CC0EE07F215D - 7208567b1da5c0d3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_App_Signer.MainView.chooseProvisioningProfile(__C.NSPopUpButton) -&gt; ()"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "586422849.495007"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1088"
+                  endingLineNumber = "1088"
+                  offsetFromSymbolStart = "293">
+               </Location>
+               <Location
+                  uuid = "C9ECB7AD-E1DD-47F1-923A-CC0EE07F215D - 7208567b1da5c0d3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_App_Signer.MainView.chooseProvisioningProfile(__C.NSPopUpButton) -&gt; ()"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "586422849.496551"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1088"
+                  endingLineNumber = "1088"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "C9ECB7AD-E1DD-47F1-923A-CC0EE07F215D - 7208567b1da5c0d3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_App_Signer.MainView.chooseProvisioningProfile(__C.NSPopUpButton) -&gt; ()"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "586422849.498455"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1088"
+                  endingLineNumber = "1088"
+                  offsetFromSymbolStart = "1213">
+               </Location>
+               <Location
+                  uuid = "C9ECB7AD-E1DD-47F1-923A-CC0EE07F215D - 7208567b1da5c0d3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_App_Signer.MainView.chooseProvisioningProfile(__C.NSPopUpButton) -&gt; ()"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "586422849.500405"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1088"
+                  endingLineNumber = "1088"
+                  offsetFromSymbolStart = "2284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CC5CEF0-8A8E-4D7A-ABF2-2F802C41449B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.296574"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "307"
+            endingLineNumber = "307"
+            landmarkName = "checkProfileID(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AC8AE4F-CB51-4A5B-ADB2-6F547B7DF094"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.29691"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "897"
+            endingLineNumber = "897"
+            landmarkName = "changeAppexID(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CD94DBF-40CE-4F33-B5EC-5BD63F720B62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.297297"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "892"
+            endingLineNumber = "892"
+            landmarkName = "signingThread()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "29936680-B996-4675-BDD8-4A9F12024513"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A867EBD-5C4E-4ECA-975A-7E6E473EF538"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.297654"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1012"
+            endingLineNumber = "1012"
+            landmarkName = "signEgg(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A27A45CB-B42E-426F-B54D-EBF5F3926707"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.298139"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1011"
+            endingLineNumber = "1011"
+            landmarkName = "signEgg(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEE38D2E-7BA1-4EB1-9603-DD8BCC5EB76F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.298588"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1015"
+            endingLineNumber = "1015"
+            landmarkName = "signEgg(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF2AC7E9-A70F-4C10-9DC3-13768721302D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.299059"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "365"
+            endingLineNumber = "365"
+            landmarkName = "recursiveDirectorySearch(_:extensions:found:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            uuid = "17B53070-4ADB-42D0-9FCC-D082C83A0D6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A76C98F-7494-4DDD-AFF1-5DAEC1EF5463"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.299544"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "409"
+            endingLineNumber = "409"
+            landmarkName = "unzip(_:outputPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A300EFCB-4ECF-4923-A4F2-C6242F09665E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.299932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1026"
+            endingLineNumber = "1026"
+            landmarkName = "signingThread()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB632631-16CF-42D1-8AB0-11F668F4FD82"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.3003449"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1028"
+            endingLineNumber = "1028"
+            landmarkName = "signingThread()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B383A71C-8795-48D7-9E2F-2055B92F63E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.300737"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "381"
+            endingLineNumber = "381"
+            landmarkName = "recursiveDirectorySearch(_:extensions:found:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76B0848F-FEC0-4935-8E6C-E274F86C2F66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.3010989"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "974"
+            endingLineNumber = "974"
+            landmarkName = "generateFileSignFunc(_:entitlementsPath:signingCertificate:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "76B0848F-FEC0-4935-8E6C-E274F86C2F66 - ee091341e6dc87a7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "generateFileSignFunc #1 (_: Swift.String, entitlementsPath: Swift.String, signingCertificate: Swift.String) -&gt; (Swift.String) -&gt; () in iOS_App_Signer.MainView.signingThread() -&gt; ()"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "592389445.476647"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "973"
+                  endingLineNumber = "973"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "76B0848F-FEC0-4935-8E6C-E274F86C2F66 - 90fff724ebb665d5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Bool in generateFileSignFunc #1 (_: Swift.String, entitlementsPath: Swift.String, signingCertificate: Swift.String) -&gt; (Swift.String) -&gt; () in iOS_App_Signer.MainView.signingThread() -&gt; ()"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "592389445.478194"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "974"
+                  endingLineNumber = "974"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5007D607-44F8-48CF-A32B-B3471EE138EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.301475"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "998"
+            endingLineNumber = "998"
+            landmarkName = "generateFileSignFunc(_:entitlementsPath:signingCertificate:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D492406A-8860-45A4-9251-E5D200C30473"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.301847"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "990"
+            endingLineNumber = "990"
+            landmarkName = "afterFunc(_:certificate:entitlements:codesignOutput:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "723BE678-379B-478F-82C7-59653E43C1DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.302175"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "986"
+            endingLineNumber = "986"
+            landmarkName = "afterFunc(_:certificate:entitlements:codesignOutput:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83F638BC-1BA9-4AA7-B26A-57EAC96D5CA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.302519"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "486"
+            endingLineNumber = "486"
+            landmarkName = "codeSign(_:certificate:entitlements:before:after:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83F638BC-1BA9-4AA7-B26A-57EAC96D5CA8 - 520b0dfb79483940"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_App_Signer.MainView.codeSign(_: Swift.String, certificate: Swift.String, entitlements: Swift.Optional&lt;Swift.String&gt;, before: Swift.Optional&lt;(Swift.String, Swift.String, Swift.Optional&lt;Swift.String&gt;) -&gt; ()&gt;, after: Swift.Optional&lt;(Swift.String, Swift.String, Swift.Optional&lt;Swift.String&gt;, iOS_App_Signer.AppSignerTaskOutput) -&gt; ()&gt;) -&gt; iOS_App_Signer.AppSignerTaskOutput"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "592389445.491273"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "485"
+                  endingLineNumber = "485"
+                  offsetFromSymbolStart = "733">
+               </Location>
+               <Location
+                  uuid = "83F638BC-1BA9-4AA7-B26A-57EAC96D5CA8 - 520b0dfb79483940"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_App_Signer.MainView.codeSign(_: Swift.String, certificate: Swift.String, entitlements: Swift.Optional&lt;Swift.String&gt;, before: Swift.Optional&lt;(Swift.String, Swift.String, Swift.Optional&lt;Swift.String&gt;) -&gt; ()&gt;, after: Swift.Optional&lt;(Swift.String, Swift.String, Swift.Optional&lt;Swift.String&gt;, iOS_App_Signer.AppSignerTaskOutput) -&gt; ()&gt;) -&gt; iOS_App_Signer.AppSignerTaskOutput"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "592389445.4929529"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "485"
+                  endingLineNumber = "485"
+                  offsetFromSymbolStart = "788">
+               </Location>
+               <Location
+                  uuid = "83F638BC-1BA9-4AA7-B26A-57EAC96D5CA8 - 520b0dfb79483940"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_App_Signer.MainView.codeSign(_: Swift.String, certificate: Swift.String, entitlements: Swift.Optional&lt;Swift.String&gt;, before: Swift.Optional&lt;(Swift.String, Swift.String, Swift.Optional&lt;Swift.String&gt;) -&gt; ()&gt;, after: Swift.Optional&lt;(Swift.String, Swift.String, Swift.Optional&lt;Swift.String&gt;, iOS_App_Signer.AppSignerTaskOutput) -&gt; ()&gt;) -&gt; iOS_App_Signer.AppSignerTaskOutput"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "592389445.495483"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "485"
+                  endingLineNumber = "485"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+               <Location
+                  uuid = "83F638BC-1BA9-4AA7-B26A-57EAC96D5CA8 - 520b0dfb79483940"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_App_Signer.MainView.codeSign(_: Swift.String, certificate: Swift.String, entitlements: Swift.Optional&lt;Swift.String&gt;, before: Swift.Optional&lt;(Swift.String, Swift.String, Swift.Optional&lt;Swift.String&gt;) -&gt; ()&gt;, after: Swift.Optional&lt;(Swift.String, Swift.String, Swift.Optional&lt;Swift.String&gt;, iOS_App_Signer.AppSignerTaskOutput) -&gt; ()&gt;) -&gt; iOS_App_Signer.AppSignerTaskOutput"
+                  moduleName = "iOS App Signer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snqu/Desktop/IOS%20Signer/ios-app-signer/AppSigner/MainView.swift"
+                  timestampString = "592389445.497417"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "485"
+                  endingLineNumber = "485"
+                  offsetFromSymbolStart = "1225">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D24B0AD0-AD73-4F39-A970-CB9321EFBA1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.302881"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "991"
+            endingLineNumber = "991"
+            landmarkName = "afterFunc(_:certificate:entitlements:codesignOutput:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BBEDD8A-333C-4D39-9FD1-DA0DBCDE7B80"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSTask-execute.swift"
+            timestampString = "592392747.331785"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "execute(_:workingDirectory:arguments:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0B1FC5B-231F-4CF1-89F5-AEFDB8A8A781"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSTask-execute.swift"
+            timestampString = "592392747.331997"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "launchSyncronous()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "873172A7-591A-4C29-ACA1-837F47508E32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.303351"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1037"
+            endingLineNumber = "1037"
+            landmarkName = "signingThread()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A26F5950-089D-432F-892E-A2CA3EE520DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.30378"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "484"
+            endingLineNumber = "484"
+            landmarkName = "codeSign(_:certificate:entitlements:before:after:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90AB9867-EC78-4E89-BAF8-EA0017A5689F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.304094"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "518"
+            endingLineNumber = "518"
+            landmarkName = "codeSign(_:certificate:entitlements:before:after:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3467C237-D859-484A-A424-D57433B86ACB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.304517"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1034"
+            endingLineNumber = "1034"
+            landmarkName = "signingThread()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6740D5EE-059D-4FEA-92D9-BFCF469E1E1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProvisioningProfile.swift"
+            timestampString = "595495285.7455291"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getProfiles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.304876"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "988"
+            endingLineNumber = "988"
+            landmarkName = "afterFunc(_:certificate:entitlements:codesignOutput:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.3053091"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "516"
+            endingLineNumber = "516"
+            landmarkName = "codeSign(_:certificate:entitlements:before:after:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSTask-execute.swift"
+            timestampString = "606897631.331386"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "execute(_:workingDirectory:arguments:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.305661"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1030"
+            endingLineNumber = "1030"
+            landmarkName = "signingThread()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898443.3060549"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1002"
+            endingLineNumber = "1002"
+            landmarkName = "signEgg(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppSigner/MainView.swift"
+            timestampString = "606898446.945478"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "769"
+            endingLineNumber = "769"
+            landmarkName = "signingThread()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
